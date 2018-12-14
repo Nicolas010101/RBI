@@ -63,6 +63,7 @@
         font-size: x-large;
         font-weight: bold;
         text-align: center;
+        top: 5vw;
     }
     .rowPerso{
         display: flex;

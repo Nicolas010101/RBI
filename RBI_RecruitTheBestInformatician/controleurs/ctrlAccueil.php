@@ -6,8 +6,6 @@
  * Time: 08:18
  */
 
-
-
 include 'vues/vueAccueil.php';
 ?>
 
